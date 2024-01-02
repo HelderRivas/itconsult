@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Contacto from './Contacto';
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SpeedInsights } from '@vercel/speed-insights/react';
 function App() {
   return (
     <div className="App" >
