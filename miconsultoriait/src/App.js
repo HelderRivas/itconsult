@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Contacto from './Contacto';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 function App() {
   return (
     <div className="App" >
@@ -70,6 +71,7 @@ function App() {
       <footer>
         <p>&copy; 2023 Consultoría de IT. Todos los derechos reservados.</p>
       </footer>
+      <SpeedInsights />
     </div>
   );
 }
