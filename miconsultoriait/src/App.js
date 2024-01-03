@@ -5,10 +5,13 @@ import Contacto from './Contacto';
 
 function App() {
   return (
+    <head>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7567589096483962"
+     crossorigin="anonymous"></script>
+    </head>
     <div className="App" >
       <header className="App-header">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7567589096483962"
-     crossorigin="anonymous"></script>
+     
         <h1  class="hit-the-floor">ITMinds Consult</h1>
         <nav>
           <ul>
